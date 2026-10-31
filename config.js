@@ -1,1 +1,1 @@
-window.TK_CONFIG={supabaseUrl:"YOUR_SUPABASE_PROJECT_URL",supabaseAnonKey:"YOUR_SUPABASE_ANON_KEY",instagramUrl:"https://www.instagram.com/techkarobaar/"};
+window.TK_CONFIG={supabaseUrl:"https://eeieymejwayukfvljpzs.supabase.co",supabaseAnonKey:"sb_publishable_9Cj2I3P-vdutao-0FYPC3A_DQu7mIzl",instagramUrl:"https://www.instagram.com/techkarobaar/"};
